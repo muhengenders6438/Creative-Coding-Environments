@@ -1,2 +1,1 @@
-# Creative-Coding-Environments
-Модуль для JavaScript
+предназначен для создания приложений для iOS и Android
